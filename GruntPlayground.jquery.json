@@ -1,0 +1,29 @@
+{
+  "name": "GruntPlayground",
+  "title": "Gruntplayground",
+  "description": "Sample project generated with Grunt",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lauterry/GruntPlayGround",
+  "author": {
+    "name": "LAU Thierry",
+    "email": "thierlau@gmail.com",
+    "url": "http://devsnote.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lauterry/GruntPlayGround.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lauterry/GruntPlayGround/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/lauterry/GruntPlayGround/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.7.2"
+  },
+  "keywords": []
+}
